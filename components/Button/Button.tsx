@@ -1,5 +1,6 @@
 import React from 'react';
 import {StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import {TrueSheet} from '@lodev09/react-native-true-sheet';
 
 export type ButtonProps = {
   onPress: () => void;
@@ -38,5 +39,11 @@ export const MyButton = ({text, onPress, color, textColor}: ButtonProps) => (
         {text}
       </Text>
     </TouchableOpacity>
+    <TrueSheet sizes={['auto', 'large']} cornerRadius={24}>
+      <Text>{text}</Text>
+      <Text>{text}</Text>
+      <Text>{text}</Text>
+      <Text>{text}</Text>
+    </TrueSheet>
   </View>
 );

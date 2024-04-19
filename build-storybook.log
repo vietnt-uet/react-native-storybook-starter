@@ -1,0 +1,28 @@
+@storybook/cli v7.6.17
+
+info => Cleaning outputDir: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--80987-ebmuV38sXa6R
+info => Loading presets
+info => Building manager..
+info => Manager built (104 ms)
+info => Building preview..
+info => Copying static files: /Users/vietnt/Documents/RNApp/react-native-storybook-starter-1/node_modules/@storybook/manager/static at /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--80987-ebmuV38sXa6R/sb-common-assets
+info Using Babel compiler
+info Addon-docs: using MDX2
+info => Using implicit CSS loaders
+Using @react-native/babel-preset
+info => Using default Webpack5 setup
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   71.0f5fc794.iframe.bundle.js (583 KiB)
+WARN   685.75858814.iframe.bundle.js (708 KiB)
+WARN   912.dc6dba33.iframe.bundle.js (715 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (719 KiB)
+WARN       runtime~main.09d02623.iframe.bundle.js
+WARN       685.75858814.iframe.bundle.js
+WARN       main.a1d06209.iframe.bundle.js
+WARN 
+info => Preview built (7.98 s)
+info => Output directory: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--80987-ebmuV38sXa6R
