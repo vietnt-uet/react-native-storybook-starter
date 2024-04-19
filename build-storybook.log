@@ -1,28 +1,30 @@
 @storybook/cli v7.6.17
 
-info => Cleaning outputDir: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--80987-ebmuV38sXa6R
+info => Cleaning outputDir: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--19615-WTWJOCse1kq9
 info => Loading presets
 info => Building manager..
-info => Manager built (104 ms)
+info => Manager built (75 ms)
 info => Building preview..
-info => Copying static files: /Users/vietnt/Documents/RNApp/react-native-storybook-starter-1/node_modules/@storybook/manager/static at /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--80987-ebmuV38sXa6R/sb-common-assets
+info => Copying static files: /Users/vietnt/Documents/RNApp/react-native-storybook-starter-1/node_modules/@storybook/manager/static at /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--19615-WTWJOCse1kq9/sb-common-assets
 info Using Babel compiler
 info Addon-docs: using MDX2
 info => Using implicit CSS loaders
 Using @react-native/babel-preset
 info => Using default Webpack5 setup
+WARN export 'requireNativeComponent' (imported as 'requireNativeComponent') was not found in 'react-native' (possible exports: AccessibilityInfo, ActivityIndicator, Alert, Animated, AppRegistry, AppState, Appearance, BackHandler, Button, CheckBox, Clipboard, DeviceEventEmitter, Dimensions, Easing, FlatList, I18nManager, Image, ImageBackground, InteractionManager, Keyboard, KeyboardAvoidingView, LayoutAnimation, Linking, LogBox, Modal, NativeEventEmitter, NativeModules, PanResponder, Picker, PixelRatio, Platform, Pressable, ProgressBar, RefreshControl, SafeAreaView, ScrollView, SectionList, Share, StatusBar, StyleSheet, Switch, Text, TextInput, Touchable, TouchableHighlight, TouchableNativeFeedback, TouchableOpacity, TouchableWithoutFeedback, UIManager, Vibration, View, VirtualizedList, YellowBox, __esModule, findNodeHandle, processColor, render, unmountComponentAtNode, unstable_createElement, useColorScheme, useLocaleContext, useWindowDimensions)
 WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
 WARN This can impact web performance.
 WARN Assets: 
 WARN   71.0f5fc794.iframe.bundle.js (583 KiB)
+WARN   252.48c4e23a.iframe.bundle.js (672 KiB)
 WARN   685.75858814.iframe.bundle.js (708 KiB)
 WARN   912.dc6dba33.iframe.bundle.js (715 KiB)
 WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
 WARN Entrypoints:
 WARN   main (719 KiB)
-WARN       runtime~main.09d02623.iframe.bundle.js
+WARN       runtime~main.5bb8fe6a.iframe.bundle.js
 WARN       685.75858814.iframe.bundle.js
-WARN       main.a1d06209.iframe.bundle.js
+WARN       main.cc0d5503.iframe.bundle.js
 WARN 
-info => Preview built (7.98 s)
-info => Output directory: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--80987-ebmuV38sXa6R
+info => Preview built (8.84 s)
+info => Output directory: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--19615-WTWJOCse1kq9

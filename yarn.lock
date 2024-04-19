@@ -2364,16 +2364,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lodev09/react-native-true-sheet@npm:^0.9.8":
-  version: 0.9.8
-  resolution: "@lodev09/react-native-true-sheet@npm:0.9.8"
-  peerDependencies:
-    react: "*"
-    react-native: "*"
-  checksum: 10/6369778dfc49af39a2cccc80b835aa2aa7f36a88ccd30f7adba519638b8da4778c73df35f4c6c1c49c238e381cc9381cd3059c76aac38f25f580fe9b5e53b900
-  languageName: node
-  linkType: hard
-
 "@mdx-js/react@npm:^2.1.5":
   version: 2.3.0
   resolution: "@mdx-js/react@npm:2.3.0"
@@ -13159,7 +13149,6 @@ __metadata:
     "@babel/core": "npm:^7.24.4"
     "@babel/preset-env": "npm:^7.24.4"
     "@babel/runtime": "npm:^7.24.4"
-    "@lodev09/react-native-true-sheet": "npm:^0.9.8"
     "@react-native-async-storage/async-storage": "npm:^1.23.1"
     "@react-native-community/datetimepicker": "npm:^7.6.3"
     "@react-native-community/slider": "npm:^4.5.0"

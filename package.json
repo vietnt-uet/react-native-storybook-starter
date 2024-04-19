@@ -17,7 +17,6 @@
     "chromatic": "npx chromatic --project-token=chpt_2a102c906c70c58"
   },
   "dependencies": {
-    "@lodev09/react-native-true-sheet": "^0.9.8",
     "@react-native-async-storage/async-storage": "^1.23.1",
     "@react-native-community/datetimepicker": "^7.6.3",
     "@react-native-community/slider": "^4.5.0",
