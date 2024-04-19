@@ -12,13 +12,13 @@ const styles = StyleSheet.create({
   button: {
     paddingVertical: 8,
     paddingHorizontal: 16,
-    borderRadius: 4,
+    borderRadius: 20,
     alignSelf: 'flex-start',
     flexGrow: 0,
-    backgroundColor: 'purple',
+    backgroundColor: 'cyan',
   },
   buttonText: {
-    color: 'white',
+    color: 'red',
     fontSize: 16,
     fontWeight: 'bold',
   },
