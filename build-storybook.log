@@ -1,11 +1,11 @@
 @storybook/cli v7.6.17
 
-info => Cleaning outputDir: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--59133-e5ADJsg7j308
+info => Cleaning outputDir: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--66356-o4LCDuueIiH9
 info => Loading presets
 info => Building manager..
-info => Manager built (81 ms)
+info => Manager built (92 ms)
 info => Building preview..
-info => Copying static files: /Users/vietnt/Documents/RNApp/react-native-storybook-starter-1/node_modules/@storybook/manager/static at /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--59133-e5ADJsg7j308/sb-common-assets
+info => Copying static files: /Users/vietnt/Documents/RNApp/react-native-storybook-starter-1/node_modules/@storybook/manager/static at /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--66356-o4LCDuueIiH9/sb-common-assets
 info Using Babel compiler
 info Addon-docs: using MDX2
 info => Using implicit CSS loaders
@@ -24,5 +24,5 @@ WARN       runtime~main.09d02623.iframe.bundle.js
 WARN       685.75858814.iframe.bundle.js
 WARN       main.a1d06209.iframe.bundle.js
 WARN 
-info => Preview built (7.32 s)
-info => Output directory: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--59133-e5ADJsg7j308
+info => Preview built (7.14 s)
+info => Output directory: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--66356-o4LCDuueIiH9

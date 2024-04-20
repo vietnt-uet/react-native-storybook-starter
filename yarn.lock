@@ -3273,6 +3273,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@react-native-firebase/analytics@npm:^19.2.2":
+  version: 19.2.2
+  resolution: "@react-native-firebase/analytics@npm:19.2.2"
+  peerDependencies:
+    "@react-native-firebase/app": 19.2.2
+  checksum: 10/287dba35e2e235da1a807d4d3a621181f19f74fb515434379d092f2b4e66d6e1ff1d034ec1c2df3c2267cb1b3bacf720c4f7d7f2cba256555584cfaef5493342
+  languageName: node
+  linkType: hard
+
 "@react-native-firebase/app@npm:^19.2.2":
   version: 19.2.2
   resolution: "@react-native-firebase/app@npm:19.2.2"
@@ -13248,6 +13257,7 @@ __metadata:
     "@react-native-async-storage/async-storage": "npm:^1.23.1"
     "@react-native-community/datetimepicker": "npm:^7.6.3"
     "@react-native-community/slider": "npm:^4.5.0"
+    "@react-native-firebase/analytics": "npm:^19.2.2"
     "@react-native-firebase/app": "npm:^19.2.2"
     "@react-native/babel-preset": "npm:^0.73.19"
     "@react-native/eslint-config": "npm:^0.73.2"
