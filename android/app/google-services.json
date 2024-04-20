@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457928231460",
+    "project_id": "storybook-starter",
+    "storage_bucket": "storybook-starter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457928231460:android:3e6f0546b8466725faa6b1",
+        "android_client_info": {
+          "package_name": "com.react_native_storybook_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApxy8aozUQV1MAvaY6Y60VqHYE5-k1IAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

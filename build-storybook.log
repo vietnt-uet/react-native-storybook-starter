@@ -1,36 +1,28 @@
 @storybook/cli v7.6.17
 
-info => Cleaning outputDir: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--24812-h3wyPx9jGXTJ
+info => Cleaning outputDir: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--59133-e5ADJsg7j308
 info => Loading presets
 info => Building manager..
-info => Manager built (86 ms)
+info => Manager built (81 ms)
 info => Building preview..
-info => Copying static files: /Users/vietnt/Documents/RNApp/react-native-storybook-starter-1/node_modules/@storybook/manager/static at /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--24812-h3wyPx9jGXTJ/sb-common-assets
+info => Copying static files: /Users/vietnt/Documents/RNApp/react-native-storybook-starter-1/node_modules/@storybook/manager/static at /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--59133-e5ADJsg7j308/sb-common-assets
 info Using Babel compiler
 info Addon-docs: using MDX2
 info => Using implicit CSS loaders
 Using @react-native/babel-preset
 info => Using default Webpack5 setup
-=> Failed to build the preview
-SB_BUILDER-WEBPACK5_0002 (WebpackInvocationError): Module not found: Error: Can't resolve '@lodev09/react-native-true-sheet' in './components/Button'
-    at ./node_modules/@storybook/builder-webpack5/dist/index.js:1:10546
-    at ./node_modules/webpack/lib/HookWebpackError.js:68:3
-    at Hook.eval [as callAsync] (eval at create (./node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:11:1)
-    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (./node_modules/tapable/lib/Hook.js:18:14)
-    at Cache.shutdown (./node_modules/webpack/lib/Cache.js:156:23)
-    at ./node_modules/webpack/lib/Compiler.js:1358:15
-    at Hook.eval [as callAsync] (eval at create (./node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)
-    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (./node_modules/tapable/lib/Hook.js:18:14)
-    at Compiler.close (./node_modules/webpack/lib/Compiler.js:1351:23)
-    at ./node_modules/@storybook/builder-webpack5/dist/index.js:1:10531
-    at finalCallback (./node_modules/webpack/lib/Compiler.js:476:32)
-    at onCompiled (./node_modules/webpack/lib/Compiler.js:490:20)
-    at ./node_modules/webpack/lib/Compiler.js:1306:21
-    at eval (eval at create (./node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:20:1)
-    at ./node_modules/webpack/lib/EntryPlugin.js:49:5
-    at ./node_modules/webpack/lib/Compilation.js:2273:13
-    at ./node_modules/webpack/lib/Compilation.js:2162:6
-    at ./node_modules/webpack/lib/Compilation.js:2024:13
-    at ./node_modules/webpack/lib/util/AsyncQueue.js:346:6
-    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
-[?25l[2K[1G[36m?[39m [1mWould you like to help improve Storybook by sending anonymous crash reports?[22m [90m›[39m [90m(Y/n)[39m
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   71.0f5fc794.iframe.bundle.js (583 KiB)
+WARN   685.75858814.iframe.bundle.js (708 KiB)
+WARN   912.dc6dba33.iframe.bundle.js (715 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (719 KiB)
+WARN       runtime~main.09d02623.iframe.bundle.js
+WARN       685.75858814.iframe.bundle.js
+WARN       main.a1d06209.iframe.bundle.js
+WARN 
+info => Preview built (7.32 s)
+info => Output directory: /var/folders/1v/x5tjlsv94sb08c61f7lwkn4w0000gn/T/chromatic--59133-e5ADJsg7j308
