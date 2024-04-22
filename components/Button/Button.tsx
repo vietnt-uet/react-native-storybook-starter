@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
   button: {
     paddingVertical: 8,
     paddingHorizontal: 16,
-    borderRadius: 20,
+    borderRadius: 4,
     alignSelf: 'flex-start',
     flexGrow: 0,
     backgroundColor: 'cyan',
@@ -35,7 +35,7 @@ export const MyButton = ({text, onPress, color, textColor}: ButtonProps) => (
       onPress={onPress}
       activeOpacity={0.8}>
       <Text style={[styles.buttonText, !!textColor && {color: textColor}]}>
-        {text}
+        {text} {text}
       </Text>
     </TouchableOpacity>
   </View>
